@@ -1,0 +1,10 @@
+Send PDF to Kindle
+
+Author: Linghua Zhang (http://gopherwood.info)
+2011, BSD Licensed
+
+Usage:
+  Open the script file, find
+    property recipientAddress : "your account@free.kindle.com"
+  and change the mail address to your kindle mail address
+  Put this file in ~/Library/PDF Services
